@@ -200,3 +200,4 @@ pygame.quit()
 f = open("highscore.txt", "w")
 f.write(str(hs))
 
+#test
